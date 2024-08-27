@@ -31,8 +31,8 @@ Feel free to explore and use this component in your own projects, whether for bl
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-component-with-tailwind-css-QjmNcOebwq](https://www.frontendmentor.io/solutions/blog-preview-card-component-with-tailwind-css-QjmNcOebwq)
+- Live Site URL: [https://sultanfarrel.github.io/blog-preview-card-main](https://sultanfarrel.github.io/blog-preview-card-main)
 
 ### Built with
 
